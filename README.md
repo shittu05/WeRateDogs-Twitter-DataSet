@@ -1,7 +1,7 @@
 # WeRateDogs-Twitter-DataSet
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
-The wrangling process was conducted on the Udacity workspace. The wrangling process was carried out in 3 stages
+The wrangling process was carried out in 3 stages:
 - Gathering of data
 - Assessing data
 - Cleaning data
@@ -25,4 +25,4 @@ The highlighted quality and tidiness issues that were documented during the asse
 ## ANALYSIS AND VISUALIZATION
 - Linear correlation was noted to exist between retweet count and favorite count for dog types
 - In Dog categories pupper has the highest number in terms of value counts  favotite while floofer has the lowest
-- Charlie, oliver, Cooper and lucy are the most popular dog names in the dataset
+- Charlie, oliver, Cooper and lucy are noted to be the most popular dog names in the dataset
