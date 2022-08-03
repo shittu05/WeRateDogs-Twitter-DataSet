@@ -6,18 +6,23 @@ The wrangling process was conducted on the Udacity workspace. The wrangling proc
 - Assessing data
 - Cleaning data
 
-## GATHERING DATA
+### GATHERING DATA
 The data used for wrangling processes were gathered from 3 different sources
 - Enhanced Twitter Archive: This data was downloaded manually
 - Image Prediction tsv File: The data for this file was downloaded programmatically by importing requesting library
 - tweet_json.text: Additional data file was downloaded from Twitter by using the tweepy library to query additional data via the Twitter API. the resulting data
 generated was a JSON, which was later stored in a text file
 
-## ASSESSING DATA
+### ASSESSING DATA
 After gathering from 3 different sources, each data was assessed visually with code editors, and spreadsheets. Furthermore, after assessing the data visually, the data
 was programmatically assessed using the panda's inbuilt functions like head, tail,info, sample, and describe to gain more insights into the data. 8 different quality
 issues were highlighted and 2 tidiness issues were highlighted after assessing the
 data visually and programmatically.
 
-## CLEANING DATA
+### CLEANING DATA
 The highlighted quality and tidiness issues that were documented during the assessing stage were thoroughly cleaned during this phase. Before cleaning the data a copy of all the data to be cleaned was generated first.
+
+## ANALYSIS AND VISUALIZATION
+- Linear correlation was noted to exist between retweet count and favorite count for dog types
+- In Dog categories pupper has the highest number in terms of value counts  favotite while floofer has the lowest
+- Charlie, oliver, Cooper and lucy are the most popular dog names in the dataset
