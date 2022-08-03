@@ -19,7 +19,7 @@ was programmatically assessed using the panda's inbuilt functions like head, tai
 issues were highlighted and 2 tidiness issues were highlighted after assessing the
 data visually and programmatically.
 
-### CLEANING DATA
+### CLEANING DATA 
 The highlighted quality and tidiness issues that were documented during the assessing stage were thoroughly cleaned during this phase. Before cleaning the data a copy of all the data to be cleaned was generated first.
 
 ## ANALYSIS AND VISUALIZATION
